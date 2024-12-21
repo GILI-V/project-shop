@@ -1,0 +1,45 @@
+C:\Users\giliv\source\repos\project_Angular\bll\bin\Debug\net8.0\bll.deps.json
+C:\Users\giliv\source\repos\project_Angular\bll\bin\Debug\net8.0\bll.dll
+C:\Users\giliv\source\repos\project_Angular\bll\bin\Debug\net8.0\bll.pdb
+C:\Users\giliv\source\repos\project_Angular\bll\obj\Debug\net8.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giliv\source\repos\project_Angular\bll\obj\Debug\net8.0\bll.AssemblyInfoInputs.cache
+C:\Users\giliv\source\repos\project_Angular\bll\obj\Debug\net8.0\bll.AssemblyInfo.cs
+C:\Users\giliv\source\repos\project_Angular\bll\obj\Debug\net8.0\bll.csproj.CoreCompileInputs.cache
+C:\Users\giliv\source\repos\project_Angular\bll\obj\Debug\net8.0\bll.dll
+C:\Users\giliv\source\repos\project_Angular\bll\obj\Debug\net8.0\refint\bll.dll
+C:\Users\giliv\source\repos\project_Angular\bll\obj\Debug\net8.0\bll.pdb
+C:\Users\giliv\source\repos\project_Angular\bll\obj\Debug\net8.0\ref\bll.dll
+C:\Users\giliv\source\repos\project_Angular_C#\bll\bin\Debug\net8.0\Bll.deps.json
+C:\Users\giliv\source\repos\project_Angular_C#\bll\bin\Debug\net8.0\Bll.dll
+C:\Users\giliv\source\repos\project_Angular_C#\bll\bin\Debug\net8.0\Bll.pdb
+C:\Users\giliv\source\repos\project_Angular_C#\bll\bin\Debug\net8.0\Dal.dll
+C:\Users\giliv\source\repos\project_Angular_C#\bll\bin\Debug\net8.0\Dto.dll
+C:\Users\giliv\source\repos\project_Angular_C#\bll\bin\Debug\net8.0\Dal.pdb
+C:\Users\giliv\source\repos\project_Angular_C#\bll\bin\Debug\net8.0\Dto.pdb
+C:\Users\giliv\source\repos\project_Angular_C#\bll\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\giliv\source\repos\project_Angular_C#\bll\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giliv\source\repos\project_Angular_C#\bll\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\giliv\source\repos\project_Angular_C#\bll\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\giliv\source\repos\project_Angular_C#\bll\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\giliv\source\repos\project_Angular_C#\bll\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Users\giliv\source\repos\project_Angular_C#\bll\obj\Debug\net8.0\Bll.dll
+C:\Users\giliv\source\repos\project_Angular_C#\bll\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\giliv\source\repos\project_Angular_C#\bll\obj\Debug\net8.0\Bll.pdb
+C:\Users\giliv\source\repos\project_Angular_C#\bll\obj\Debug\net8.0\ref\Bll.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\obj\Debug\net8.0\Bll.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\obj\Debug\net8.0\Bll.pdb
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\bin\Debug\net8.0\Bll.deps.json
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\bin\Debug\net8.0\Bll.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\bin\Debug\net8.0\Bll.pdb
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\bin\Debug\net8.0\Dal.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\bin\Debug\net8.0\Dto.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\bin\Debug\net8.0\Dal.pdb
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\bin\Debug\net8.0\Dto.pdb
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\bll\obj\Debug\net8.0\ref\Bll.dll

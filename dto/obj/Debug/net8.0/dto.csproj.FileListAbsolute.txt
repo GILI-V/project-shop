@@ -1,0 +1,33 @@
+C:\Users\giliv\source\repos\project_Angular\dto\bin\Debug\net8.0\dto.deps.json
+C:\Users\giliv\source\repos\project_Angular\dto\bin\Debug\net8.0\dto.dll
+C:\Users\giliv\source\repos\project_Angular\dto\bin\Debug\net8.0\dto.pdb
+C:\Users\giliv\source\repos\project_Angular\dto\obj\Debug\net8.0\dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giliv\source\repos\project_Angular\dto\obj\Debug\net8.0\dto.AssemblyInfoInputs.cache
+C:\Users\giliv\source\repos\project_Angular\dto\obj\Debug\net8.0\dto.AssemblyInfo.cs
+C:\Users\giliv\source\repos\project_Angular\dto\obj\Debug\net8.0\dto.csproj.CoreCompileInputs.cache
+C:\Users\giliv\source\repos\project_Angular\dto\obj\Debug\net8.0\dto.dll
+C:\Users\giliv\source\repos\project_Angular\dto\obj\Debug\net8.0\refint\dto.dll
+C:\Users\giliv\source\repos\project_Angular\dto\obj\Debug\net8.0\dto.pdb
+C:\Users\giliv\source\repos\project_Angular\dto\obj\Debug\net8.0\ref\dto.dll
+C:\Users\giliv\source\repos\project_Angular_C#\dto\bin\Debug\net8.0\Dto.deps.json
+C:\Users\giliv\source\repos\project_Angular_C#\dto\bin\Debug\net8.0\Dto.dll
+C:\Users\giliv\source\repos\project_Angular_C#\dto\bin\Debug\net8.0\Dto.pdb
+C:\Users\giliv\source\repos\project_Angular_C#\dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giliv\source\repos\project_Angular_C#\dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+C:\Users\giliv\source\repos\project_Angular_C#\dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+C:\Users\giliv\source\repos\project_Angular_C#\dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\giliv\source\repos\project_Angular_C#\dto\obj\Debug\net8.0\Dto.dll
+C:\Users\giliv\source\repos\project_Angular_C#\dto\obj\Debug\net8.0\refint\Dto.dll
+C:\Users\giliv\source\repos\project_Angular_C#\dto\obj\Debug\net8.0\Dto.pdb
+C:\Users\giliv\source\repos\project_Angular_C#\dto\obj\Debug\net8.0\ref\Dto.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\bin\Debug\net8.0\Dto.deps.json
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\bin\Debug\net8.0\Dto.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\bin\Debug\net8.0\Dto.pdb
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\obj\Debug\net8.0\Dto.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\obj\Debug\net8.0\refint\Dto.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\obj\Debug\net8.0\Dto.pdb
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dto\obj\Debug\net8.0\ref\Dto.dll

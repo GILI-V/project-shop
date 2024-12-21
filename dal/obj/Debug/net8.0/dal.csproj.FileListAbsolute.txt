@@ -1,0 +1,48 @@
+C:\Users\giliv\source\repos\project_Angular\dal\bin\Debug\net8.0\dal.deps.json
+C:\Users\giliv\source\repos\project_Angular\dal\bin\Debug\net8.0\dal.runtimeconfig.json
+C:\Users\giliv\source\repos\project_Angular\dal\bin\Debug\net8.0\dal.dll
+C:\Users\giliv\source\repos\project_Angular\dal\bin\Debug\net8.0\dal.pdb
+C:\Users\giliv\source\repos\project_Angular\dal\obj\Debug\net8.0\dal.csproj.AssemblyReference.cache
+C:\Users\giliv\source\repos\project_Angular\dal\obj\Debug\net8.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giliv\source\repos\project_Angular\dal\obj\Debug\net8.0\dal.AssemblyInfoInputs.cache
+C:\Users\giliv\source\repos\project_Angular\dal\obj\Debug\net8.0\dal.AssemblyInfo.cs
+C:\Users\giliv\source\repos\project_Angular\dal\obj\Debug\net8.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\giliv\source\repos\project_Angular\dal\obj\Debug\net8.0\dal.dll
+C:\Users\giliv\source\repos\project_Angular\dal\obj\Debug\net8.0\refint\dal.dll
+C:\Users\giliv\source\repos\project_Angular\dal\obj\Debug\net8.0\dal.pdb
+C:\Users\giliv\source\repos\project_Angular\dal\obj\Debug\net8.0\dal.genruntimeconfig.cache
+C:\Users\giliv\source\repos\project_Angular\dal\obj\Debug\net8.0\ref\dal.dll
+C:\Users\giliv\source\repos\project_Angular_C#\dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\giliv\source\repos\project_Angular_C#\dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\giliv\source\repos\project_Angular_C#\dal\bin\Debug\net8.0\Dal.dll
+C:\Users\giliv\source\repos\project_Angular_C#\dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\giliv\source\repos\project_Angular_C#\dal\bin\Debug\net8.0\Dto.dll
+C:\Users\giliv\source\repos\project_Angular_C#\dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\Dal.dll
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\giliv\source\repos\project_Angular_C#\dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\Dal.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\bin\Debug\net8.0\Dal.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\bin\Debug\net8.0\Dto.dll
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\giliv\Desktop\‏‏תיקיה חדשה\project_Angular_C#\dal\obj\Debug\net8.0\ref\Dal.dll

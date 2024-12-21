@@ -1,0 +1,709 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dto\\purchasedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|solutionrelative:dto\\purchasedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dto\\purchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|solutionrelative:dto\\purchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\bll\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|solutionrelative:bll\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\bll\\iproductbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|solutionrelative:bll\\iproductbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\bll\\icustomerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|solutionrelative:bll\\icustomerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\project_angular\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|solutionrelative:project_angular\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\project_angular\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|solutionrelative:project_angular\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dto\\customerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|solutionrelative:dto\\customerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\modelsconvert\\purchaseconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\modelsconvert\\purchaseconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\modelsconvert\\customerconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\modelsconvert\\customerconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\models1\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\models1\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\modelsconvert\\categoryconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\modelsconvert\\categoryconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\modelsconvert\\productconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\modelsconvert\\productconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\modelsconvert\\purchasedetailconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\modelsconvert\\purchasedetailconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\modelsconvert\\customerloginconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\modelsconvert\\customerloginconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\models1\\purchasedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\models1\\purchasedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dto\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|solutionrelative:dto\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\basketdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\basketdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\models1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\models1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\models1\\angular1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\models1\\angular1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|solutionrelative:bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\ibasketdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\ibasketdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\models1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\models1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FE687F-4A69-442E-A158-C16567848FB3}|dto\\Dto.csproj|solutionrelative:dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\models1\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\models1\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\bll\\basketbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|solutionrelative:bll\\basketbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\project_angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|solutionrelative:project_angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\project_angular\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|solutionrelative:project_angular\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\dal\\models1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4B283-99F6-49FC-83AF-C2DD83827264}|dal\\Dal.csproj|solutionrelative:dal\\models1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\bll\\ibasketbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0AA1A-07E0-4F2B-85AD-69EFF0571EA5}|bll\\Bll.csproj|solutionrelative:bll\\ibasketbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\project_angular\\project_angular.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|solutionrelative:project_angular\\project_angular.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\project_angular\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|solutionrelative:project_angular\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|c:\\users\\giliv\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_angular_c#\\project_angular\\project_angular.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{460B8F44-122E-4926-9562-C8F2CD091770}|project_Angular\\project_Angular.csproj|solutionrelative:project_angular\\project_angular.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductBll.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\ProductBll.cs",
+              "RelativeDocumentMoniker": "bll\\ProductBll.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\ProductBll.cs",
+              "RelativeToolTip": "bll\\ProductBll.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:16:10.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "project_Angular\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "project_Angular\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADgvzsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:46:24.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "project_Angular\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "project_Angular\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:50:04.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\ProductDal.cs",
+              "RelativeDocumentMoniker": "dal\\ProductDal.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\ProductDal.cs",
+              "RelativeToolTip": "dal\\ProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:04:20.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\IProductDal.cs",
+              "RelativeDocumentMoniker": "dal\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\IProductDal.cs",
+              "RelativeToolTip": "dal\\IProductDal.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvxMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:04:00.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\PurchaseDetailDto.cs",
+              "RelativeDocumentMoniker": "dto\\PurchaseDetailDto.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\PurchaseDetailDto.cs",
+              "RelativeToolTip": "dto\\PurchaseDetailDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:13:20.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\PurchaseDto.cs",
+              "RelativeDocumentMoniker": "dto\\PurchaseDto.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\PurchaseDto.cs",
+              "RelativeToolTip": "dto\\PurchaseDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:34:57.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductBll.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\IProductBll.cs",
+              "RelativeDocumentMoniker": "bll\\IProductBll.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\IProductBll.cs",
+              "RelativeToolTip": "bll\\IProductBll.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:50:04.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerBll.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\ICustomerBll.cs",
+              "RelativeDocumentMoniker": "bll\\ICustomerBll.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\ICustomerBll.cs",
+              "RelativeToolTip": "bll\\ICustomerBll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:01:56.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\ICustomerDal.cs",
+              "RelativeDocumentMoniker": "dal\\ICustomerDal.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\ICustomerDal.cs",
+              "RelativeToolTip": "dal\\ICustomerDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:47:10.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "customerLogInDto.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\customerLogInDto.cs",
+              "RelativeDocumentMoniker": "dto\\customerLogInDto.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\customerLogInDto.cs",
+              "RelativeToolTip": "dto\\customerLogInDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:33:02.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\CustomerDal.cs",
+              "RelativeDocumentMoniker": "dal\\CustomerDal.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\CustomerDal.cs",
+              "RelativeToolTip": "dal\\CustomerDal.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:13:19.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "productDto.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\productDto.cs",
+              "RelativeDocumentMoniker": "dto\\productDto.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\productDto.cs",
+              "RelativeToolTip": "dto\\productDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:41:42.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\Dal.csproj",
+              "RelativeDocumentMoniker": "dal\\Dal.csproj",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\Dal.csproj",
+              "RelativeToolTip": "dal\\Dal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T20:55:23.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PurchaseConvert.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\PurchaseConvert.cs",
+              "RelativeDocumentMoniker": "dal\\modelsConvert\\PurchaseConvert.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\PurchaseConvert.cs",
+              "RelativeToolTip": "dal\\modelsConvert\\PurchaseConvert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:32:40.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerConvert.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\CustomerConvert.cs",
+              "RelativeDocumentMoniker": "dal\\modelsConvert\\CustomerConvert.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\CustomerConvert.cs",
+              "RelativeToolTip": "dal\\modelsConvert\\CustomerConvert.cs",
+              "ViewState": "AQIAAAMAAADAZmZmZmYUwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:27:46.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Purchase.cs",
+              "RelativeDocumentMoniker": "dal\\models1\\Purchase.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Purchase.cs",
+              "RelativeToolTip": "dal\\models1\\Purchase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:30:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryConvert.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\CategoryConvert.cs",
+              "RelativeDocumentMoniker": "dal\\modelsConvert\\CategoryConvert.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\CategoryConvert.cs",
+              "RelativeToolTip": "dal\\modelsConvert\\CategoryConvert.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:49:47.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "productConvert.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\productConvert.cs",
+              "RelativeDocumentMoniker": "dal\\modelsConvert\\productConvert.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\productConvert.cs",
+              "RelativeToolTip": "dal\\modelsConvert\\productConvert.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:29:57.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PurchaseDetailConvert.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\PurchaseDetailConvert.cs",
+              "RelativeDocumentMoniker": "dal\\modelsConvert\\PurchaseDetailConvert.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\PurchaseDetailConvert.cs",
+              "RelativeToolTip": "dal\\modelsConvert\\PurchaseDetailConvert.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:15:47.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerLogInConvert.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\CustomerLogInConvert.cs",
+              "RelativeDocumentMoniker": "dal\\modelsConvert\\CustomerLogInConvert.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\modelsConvert\\CustomerLogInConvert.cs",
+              "RelativeToolTip": "dal\\modelsConvert\\CustomerLogInConvert.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:35:02.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PurchaseDetail.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\PurchaseDetail.cs",
+              "RelativeDocumentMoniker": "dal\\models1\\PurchaseDetail.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\PurchaseDetail.cs",
+              "RelativeToolTip": "dal\\models1\\PurchaseDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:08:15.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "categoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\categoryDto.cs",
+              "RelativeDocumentMoniker": "dto\\categoryDto.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\categoryDto.cs",
+              "RelativeToolTip": "dto\\categoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:46:09.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "basketDto.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\basketDto.cs",
+              "RelativeDocumentMoniker": "dto\\basketDto.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\basketDto.cs",
+              "RelativeToolTip": "dto\\basketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:26:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BasketDal.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\BasketDal.cs",
+              "RelativeDocumentMoniker": "dal\\BasketDal.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\BasketDal.cs",
+              "RelativeToolTip": "dal\\BasketDal.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:24:33.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Product.cs",
+              "RelativeDocumentMoniker": "dal\\models1\\Product.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Product.cs",
+              "RelativeToolTip": "dal\\models1\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:30:36.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerBll.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\CustomerBll.cs",
+              "RelativeDocumentMoniker": "bll\\CustomerBll.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\CustomerBll.cs",
+              "RelativeToolTip": "bll\\CustomerBll.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:45:36.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Angular1Context.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Angular1Context.cs",
+              "RelativeDocumentMoniker": "dal\\models1\\Angular1Context.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Angular1Context.cs",
+              "RelativeToolTip": "dal\\models1\\Angular1Context.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAjwIAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:34:27.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBasketDal.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\IBasketDal.cs",
+              "RelativeDocumentMoniker": "dal\\IBasketDal.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\IBasketDal.cs",
+              "RelativeToolTip": "dal\\IBasketDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:24:52.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "customerDto.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\customerDto.cs",
+              "RelativeDocumentMoniker": "dto\\customerDto.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dto\\customerDto.cs",
+              "RelativeToolTip": "dto\\customerDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:45:41.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Customer.cs",
+              "RelativeDocumentMoniker": "dal\\models1\\Customer.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Customer.cs",
+              "RelativeToolTip": "dal\\models1\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:37:54.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Company.cs",
+              "RelativeDocumentMoniker": "dal\\models1\\Company.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Company.cs",
+              "RelativeToolTip": "dal\\models1\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:30:31.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BasketBll.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\BasketBll.cs",
+              "RelativeDocumentMoniker": "bll\\BasketBll.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\BasketBll.cs",
+              "RelativeToolTip": "bll\\BasketBll.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:23:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\Program.cs",
+              "RelativeDocumentMoniker": "project_Angular\\Program.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\Program.cs",
+              "RelativeToolTip": "project_Angular\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:20:46.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "project_Angular\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "project_Angular\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:05:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Category.cs",
+              "RelativeDocumentMoniker": "dal\\models1\\Category.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\dal\\models1\\Category.cs",
+              "RelativeToolTip": "dal\\models1\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:52:54.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAGQTAAAAAAAAAAAnwHYTAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-15T16:22:05.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IBasketBll.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\IBasketBll.cs",
+              "RelativeDocumentMoniker": "bll\\IBasketBll.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\bll\\IBasketBll.cs",
+              "RelativeToolTip": "bll\\IBasketBll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:23:40.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "project_Angular.csproj",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\project_Angular.csproj",
+              "RelativeDocumentMoniker": "project_Angular\\project_Angular.csproj",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\project_Angular.csproj",
+              "RelativeToolTip": "project_Angular\\project_Angular.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T08:40:58.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "project_Angular\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\WeatherForecast.cs",
+              "RelativeToolTip": "project_Angular\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:39:57.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "project_Angular",
+              "DocumentMoniker": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\project_Angular.csproj",
+              "RelativeDocumentMoniker": "project_Angular\\project_Angular.csproj",
+              "ToolTip": "C:\\Users\\giliv\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\project_Angular_C#\\project_Angular\\project_Angular.csproj",
+              "RelativeToolTip": "project_Angular\\project_Angular.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T10:49:13.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
